@@ -24,4 +24,4 @@ File 101-keygen.c is a program that generates random valid passwords for the pro
 
 File _putchar.c contains the _putchar() function definition.
 
-File mainn.h is the header file containing all the function prototypes used in this project.
+File main.h is the header file containing all the function prototypes used in this project.
